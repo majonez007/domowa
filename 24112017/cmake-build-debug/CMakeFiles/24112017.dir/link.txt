@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/24112017.dir/rownanie-kw-tdd/main.c.o  -o 24112017 

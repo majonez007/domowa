@@ -1,0 +1,24 @@
+jezyki programowania 
+
+opracowac w md na github na temat typów binarnego osemkowego i szesnatkowego 
+
+konwersja z systemu 10 do 2 i 16 do 2 
+
+opracowac formatowanie prinf i scanf 
+do scanf %lf [*] [szerokosć][prefix] znak_konwersji 
+
+int scanf
+
+int liczba_sztuk;
+
+scanf (" %d -format zmienna typu calkowitego, &liczba_sztuk
+
+double szerokosć; 
+scanf( " %lf spacja pomaga poradzic sobie z białymi znakami", &szerokość 
+
+scanf( " %lf%d" dwie zmienne jesdna double calkokowita 
+
+jezeli mamy zmienaa doube lub float np a = 0.0;
+
+
+
